@@ -1,3 +1,6 @@
+# :copyright: (c) 2022-2023 by Amore.
+# :license: MIT, see LICENSE for more details.
+
 import requests
 import re
 from bs4 import BeautifulSoup
